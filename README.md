@@ -1,1 +1,2 @@
-Hey, I'm learning Python and I'm looking for friends or people who have either learnt/ and or learning Python as well, Shared experience. 
+Hey. I'm currently learning a variety of languages including (C, JS, HTML, C++, and Python) And some additional frameworks as (Django and Flask) 
+Looking for friends or people to work with on different areas of projects or just to learn together. 
